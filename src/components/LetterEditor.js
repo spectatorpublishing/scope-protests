@@ -1,8 +1,8 @@
 import React from 'react';
 import styled from 'styled-components';
-import '../index.css';
 
 const LetterWrap = styled.div`
+    padding-top:5vh;
     padding-bottom:5vh;
     padding-left: 10vw;
     padding-right: 10vw;

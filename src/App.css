@@ -1,38 +1,174 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&family=Quattrocento:wght@700&display=swap');
+
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+  background-color: black;
   color: white;
+  padding-bottom: 10vh;
+  margin-bottom: -50px;
 }
 
-.App-link {
-  color: #61dafb;
+.maintitle {
+  padding-top: 15vh;
+  background:
+    linear-gradient(rgba(0, 0, 0, 0),
+      rgba(0, 0, 0, 1)),
+    url("https://cloudfront-us-east-1.images.arcpublishing.com/spectator/TNU44YY7UFHWPMLCPU4HUL2HAE.jpg");
+  background-repeat: no-repeat;
+  background-size: contain;
+  /* height: 75vh; */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.opinion {
+  margin: 2vw;
+  margin-left: 9vw;
+  text-align: left;
+  font-size: 1.5rem;
+  font-family: Whitney, serif;
+}
+
+
+.pagetitle {
+  padding-left: 9vw;
+  padding-right: 9vw;
+  margin-bottom: -4vw;
+  text-align: center;
+  font-size: 5.5rem;
+  font-family: Quattrocento, sans-serif;
+}
+
+.center {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.credits {
+  margin: 0vw 2vw 2vw 2vw;
+  float: right;
+  margin-top: 14%;
+  margin-right: 9vw;
+  text-align: left;
+  font-size: 1rem;
+  font-family: Whitney, sans-serif;
+}
+
+.credits p {
+  margin-top: .3em;
+  margin-bottom: .3em;
+}
+
+.letter {
+  font-family: Lora, serif;
+  font-size: 2rem;
+  text-align: left;
+  width: 80%;
+  margin: 16% 10% 2vw 10%;
+}
+
+.letter-content {
+  font-family: Lora, serif;
+  text-align: left;
+  width: 80%;
+  margin: 0 10%;
+  font-size: 1.1rem;
+  line-height: 1.25rem;
+}
+
+.letter-content a {
+  color: inherit;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.timeline-title {
+  font-family: Oswald, sans-serif;
+  text-align: center;
+  font-size: 3rem;
+  margin: 3rem 0;
+}
+
+.thepath {
+  width: 70vw;
+}
+
+.sub {
+  font-family: Whitney, sans-serif;
+  margin: 2vw;
+  font-size: 1.5rem;
+  text-align: center;
+  line-height: 1.5rem;
+}
+
+.year {
+  color:white !important;
+}
+
+@media (max-width: 992px) {
+
+  .sub,
+  .opinion {
+    font-size: 1rem !important;
+    line-height: 1rem !important;
   }
-  to {
-    transform: rotate(360deg);
+
+  .credits {
+    font-size: 0.8rem !important;
+    line-height: 1rem !important;
+    margin-top: 7%;
   }
+
+  .year {
+    margin-bottom: 2em;
+  }
+
+  .pagetitle {
+    font-size: 2.5rem;
+  }
+
+}
+
+.allcontainer {
+  overflow-y: hidden;
+  height: 50vh;
+  margin-top: -120px;
+}
+
+.allcontain {
+  transition-duration: 1s;
+}
+
+.upArrow {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 25px;
+  transform: rotate(-135deg);
+  cursor: pointer;
+  -webkit-transform: rotate(-135deg);
+}
+
+.upArrowArrow {
+  width: 100%;
+}
+
+
+.downArrow {
+  border: solid white;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 25px;
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+  cursor: pointer;
+}
+
+.downArrowArrow {
+  width: 100%;
+}
+
+.keyImage {
+  width: 30px;
+  vertical-align: middle;
+  margin: .5rem;
 }
