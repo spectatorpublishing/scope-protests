@@ -23,12 +23,20 @@ const CoverWrapper = styled.div`
 const Headline = styled.div`
     color: white;
     padding-top: 25vh;
+
+    @media (max-width: 768px) {
+        padding-top: 10vh;
+    }
 `;
 
 const SectionTitle = styled.div`
     font-family: 'Whitney,serif';
     font-size: 3rem;
     margin: 2vw 2vw 2vw 9vw;
+
+    @media (max-width: 768px) {
+        font-size: 1rem;
+    }
 `;
 
 const Title = styled.div`
@@ -36,6 +44,10 @@ const Title = styled.div`
     font-size: 10rem;
     text-align: center;
     width: 100%;
+
+    @media (max-width: 768px) {
+        font-size: 3rem;
+    }
 `;
 
 const Credits = styled.div`
@@ -45,6 +57,11 @@ const Credits = styled.div`
     text-align: right;
     bottom: 0;
     right: 5%;
+
+    @media (max-width: 768px) {
+        font-size: 0.8rem;
+        line-height: 0.2rem;
+    }
 `;
 
 const Heading = () => {
