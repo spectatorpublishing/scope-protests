@@ -177,7 +177,7 @@ export const articledata = {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/RTLLGHDS7NBFRORS23PCOLTOOM.jpg",
                 article_title: "What are the politics of respectability during a genocide?",
                 article_link: "https://www.columbiaspectator.com/opinion/2024/02/13/what-are-the-politics-of-respectability-during-a-genocide/",
-                article_date: "February 13, 2024 "
+                article_date: "February 13, 2024"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/COVUO3X3GBHLNADXLO272ELV3U.JPG",

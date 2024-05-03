@@ -134,10 +134,18 @@ const ArticleTitle = styled.div`
     @media (max-width: 1324px) {
         font-size: 2rem;
     }
+
+    @media (max-width: 768px) {
+        font-size: 1.6rem;
+    }
 `;
 
 const ArticleDate = styled.div`
     font-size: 1.5rem; 
+
+    @media (max-width: 768px) {
+        font-size: 1.2rem;
+    }
 `;
 
 const Articles = () => {
@@ -170,7 +178,11 @@ const Articles = () => {
     };
 
     const handleRightArrow = () => {
-        if (currentArticleIndex < articles.length - 1) {
+        if (window.innerWidth > 1324){
+            if (currentArticleIndex < articles.length - 2) {
+                setCurrentArticleIndex(prevIndex => prevIndex + 1);
+            }
+        } else if (currentArticleIndex < articles.length - 1) {
             setCurrentArticleIndex(prevIndex => prevIndex + 1);
         }
     };
@@ -190,7 +202,7 @@ const Articles = () => {
     };
 
     const leftArrowClickable = currentArticleIndex > 0;
-    const rightArrowClickable = currentArticleIndex < articles.length - 1;
+    const rightArrowClickable = window.innerWidth > 1324 ? currentArticleIndex < articles.length - 2 : currentArticleIndex < articles.length - 1;
     const upArrowClickable = currentYearIndex > 0;
     const downArrowClickable = currentYearIndex < years.length - 1;
 
