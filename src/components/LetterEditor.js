@@ -46,30 +46,50 @@ const LetterEditor = () => {
             <Body>
                 <p>Dear readers, </p>
                 <p>
-                    Last November, the Columbia College Student Council voted to place a question on its next ballot after a tumultuous four-year saga where the vote failed to pass twice. 
-                    The question reads:
+                    Throughout its “storied history,” Columbia University has stood at the forefront of national student movements. 
+                    At each turn, Spectator was there to platform the voices of both activists and their critics. 
+                    “After 1968” is a retrospective of Spectator content from four critical eras of protest on Columbia’s campus. 
                 </p>
                 <p>
-                    Should Columbia University divest its stocks, funds, and endowment from companies that profit from or engage in the State of Israel’s acts toward Palestinians that, according to Columbia University Apartheid Divest (CUAD), fall under the United Nations International Convention of the Suppression and Punishment of the Crime of Apartheid?
+                    Our retrospective begins in 1968 where protests against Columbia’s links to the Vietnam War and racism towards 
+                    Black Harlemites culminated in the occupation of multiple buildings. We then move to 1985 in which Columbia 
+                    became the first major U.S university to divest from apartheid South Africa after years of pressure from 
+                    students and the Coalition for a Free South Africa’s takeover of Hamilton Hall. In 2020, after years of 
+                    debate on Israel and Palestine, the Columbia College Student Council held its first BDS referendum asking
+                    whether the University should divest from companies that “profit from or engage in the State of Israel’s 
+                    treatment of Palestinians.” 
                 </p>
                 <p>
-                    After months of delay due to COVID-19, Columbia College students are now scheduled to vote on this question between September 22 and September 25, 2020.
-
-                    The Boycott, Divest, and Sanction movement advocates for colleges and universities to divest their endowments from companies that the movement claims profit off of Israeli aggression toward Palestine. As a member of the Columbia community, I know how contentious the topics of BDS, Palestine, and Israel can be on campus. Hopefully, this digital platform and the review of our predecessors' arguments will enable us to better engage in the critical inquiry of each side of the debate.
-
-                    On behalf of myself and the editorial team, I urge you to read critically and consciously reexamine your own beliefs and positions if you are introduced to new perspectives within this scope.
-
-                    Lastly, I would impress upon you that we strove to curate and edit these pieces devoid of any personal biases.
-
+                    During the academic year of 2023-2024, a significant part of campus life has been shaped by the divestment 
+                    campaign spearheaded by Students for Justice in Palestine, Barnard-Columbia  Jewish Voice for Peace, and 
+                    the coalition of 100+ student organizations comprising Columbia University Apartheid Divest.  This April, 
+                    student organizers continued the referential tradition of protest with their creation of multiple “liberated 
+                    zones” across campus, including the ‘Gaza Solidarity Encampment’ and a once-again occupied Hamilton, renamed 
+                    ‘Hind’s Hall’. After the second round of mass arrests in two weeks, Columbia remains at the center of a national 
+                    media storm surrounding college protests, and a wave of anti-war encampments continues to spread internationally. 
+                    In the midst of an unprecedented police presence on campus and widespread fury towards the Columbia administration, 
+                    students are once again reckoning with their University’s complex history.
                 </p>
                 <p>
-                    Warmly,
+                    On behalf of myself and Spectator’s editorial board, I urge you to engage critically with these archival pieces, 
+                    and consider their place within a broader historical context. In curating this Scope, we aimed to create a 
+                    chronology of campus protests and draw from a wide range of perspectives. This survey of articles is an incomplete 
+                    picture of both protests and student journalism at Columbia. Our intent is to underscore historical parallels, 
+                    encourage further engagement with Columbia’s past, and further inform discourse within our community. 
                 </p>
                 <p>
-                    Ryan Oden
+                    Much is uncertain as we near the end of this tumultuous school year. My hope is that this Scope helps 
+                    contextualize the rich history of political engagement at Columbia, and affirms the ability of students 
+                    to narrate their own history.
                 </p>
                 <p>
-                    Administrative Deputy Editorial Page Editor
+                    Sincerely,
+                </p>
+                <p>
+                    Sydney Goldson
+                </p>
+                <p>
+                    Deputy Editorial Page Editor
                 </p>
             </Body>
         </LetterWrap>

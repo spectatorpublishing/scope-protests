@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import Navbar from "../components/Navbar";
 
 const CoverWrapper = styled.div`
-    background:url(https://cloudfront-us-east-1.images.arcpublishing.com/spectator/67TKSDXV3FE6TKZTS4KBVD7WNI.png) #01304C;
+    background:url(https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg) #01304C;
     background-size: cover;
     background-position: top;
     width:100%;
@@ -23,6 +23,7 @@ const CoverWrapper = styled.div`
 const Headline = styled.div`
     color: white;
     padding-top: 25vh;
+    text-shadow: 5px 5px 2px black;
 
     @media (max-width: 768px) {
         padding-top: 10vh;
@@ -73,9 +74,9 @@ const Heading = () => {
                 </div>
                 <Headline>
                     <SectionTitle>OPINION ARCHIVE</SectionTitle>
-                    <Title>Protests Title</Title>
+                    <Title>After 1968: A Retrospective on Campus Protest</Title>
                     <Credits>
-                        <p>Illustration By Name</p>
+                        <p>Illustration By Sydney Goldson</p>
                         <p>Engineering By Darien Moment</p>
                     </Credits>
                 </Headline>
