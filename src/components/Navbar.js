@@ -11,7 +11,7 @@ const NavWrap = styled.div`
     width: calc(100vw - 5rem);
     background: rgba(0,0,0,0.7);
     z-index: 100;
-    height: 70px;
+    height: 50px;
     padding: 0 2.5rem;
     display: flex;
     align-items: center;

@@ -128,7 +128,7 @@ const Article = styled.div`
 `;
 
 const ArticleTitle = styled.div`
-    font-size: 3rem;
+    font-size: 2.3rem;
     text-shadow: 5px 5px 2px black;
 
     @media (max-width: 1324px) {

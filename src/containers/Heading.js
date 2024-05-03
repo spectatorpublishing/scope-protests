@@ -22,7 +22,7 @@ const CoverWrapper = styled.div`
 
 const Headline = styled.div`
     color: white;
-    padding-top: 25vh;
+    padding-top: 23vh;
     text-shadow: 5px 5px 2px black;
 
     @media (max-width: 1324px) {
@@ -46,7 +46,7 @@ const SectionTitle = styled.div`
 
 const Title = styled.div`
     font-family: 'Quattrocento, sans-serif';
-    font-size: 10rem;
+    font-size: 7rem;
     text-align: center;
     width: 100%;
 
