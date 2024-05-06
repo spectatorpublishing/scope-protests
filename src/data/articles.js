@@ -3,21 +3,21 @@ export const articledata = {
         [
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "Misrepresentations",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680507-01.2.7&e=-------en-20--1--txt-txIN-1968------",
-                article_date: "May 7, 1968"
-            },
-            {
-                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "LTE: Holds Kirk Responsible",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680503-01.2.13&e=-------en-20--1--txt-txIN-1968------",
-                article_date: "May 3, 1968"
-            },
-            {
-                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "City Newspapers Distort Protests",
                 article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680427-01.2.3&srpos=5&e=01-04-1968-31-04-1968--en-20--1--txt-txIN-protests------",
                 article_date: "April 27, 1968"
+            },
+            {
+                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
+                article_title: "A Glimmer of Hope",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680427-01.2.8&srpos=10&e=01-04-1968-31-04-1968--en-20--1--txt-txIN-protests------",
+                article_date: "April 27, 1968"
+            },
+            {
+                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
+                article_title: "The Reconstruction",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680501-01.2.7&e=-------en-20--1--txt-txIN-1968------",
+                article_date: "May 1, 1968"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
@@ -33,25 +33,42 @@ export const articledata = {
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "A Glimmer of Hope",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680427-01.2.8&srpos=10&e=01-04-1968-31-04-1968--en-20--1--txt-txIN-protests------",
-                article_date: "April 27, 1968"
+                article_title: "LTE: Holds Kirk Responsible",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680503-01.2.13&e=-------en-20--1--txt-txIN-1968------",
+                article_date: "May 3, 1968"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "The Reconstruction",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680501-01.2.7&e=-------en-20--1--txt-txIN-1968------",
-                article_date: "May 1, 1968"
+                article_title: "Misrepresentations",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680507-01.2.7&e=-------en-20--1--txt-txIN-1968------",
+                article_date: "May 7, 1968"
             }
-
         ],
     "1980s" :
         [
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
+                article_title: "Emotional Rescue",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850325-01.2.9&srpos=1&e=01-03-1985-31-03-1985--en-20--1--txt-txIN-protest------",
+                article_date: "March 25, 1985"
+            },
+            {
+                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "Letters of Outrage: Discuss Divestment",
                 article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850329-01.2.8&srpos=4&e=01-03-1985-31-03-1985--en-20--1--txt-txIN-protest------",
                 article_date: "March 29, 1985"
+            },
+            {
+                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
+                article_title: "Divest is life or death issue",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850404-01.2.3&srpos=16&e=01-04-1985-31-04-1985--en-20--1--txt-txIN-protest------",
+                article_date: "April 4, 1985"
+            },
+            {
+                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
+                article_title: "Hypocrisy of protesters draws ironic parallel",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850408-01.2.10&srpos=8&e=01-04-1985-31-04-1985--en-20--1--txt-txIN-protests------",
+                article_date: "April 8, 1985"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
@@ -67,78 +84,54 @@ export const articledata = {
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "Hypocrisy of protesters draws ironic parallel",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850408-01.2.10&srpos=8&e=01-04-1985-31-04-1985--en-20--1--txt-txIN-protests------",
-                article_date: "April 8, 1985"
-            },
-            {
-                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "Divest is life or death issue",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850404-01.2.3&srpos=16&e=01-04-1985-31-04-1985--en-20--1--txt-txIN-protest------",
-                article_date: "April 4, 1985"
-            },
-            {
-                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "Emotional Rescue",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850325-01.2.9&srpos=1&e=01-03-1985-31-03-1985--en-20--1--txt-txIN-protest------",
-                article_date: "March 25, 1985"
-            },
-            {
-                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "A '68 Leader on the Protests of Today",
                 article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19870318-01.2.10&srpos=12&e=-------en-20--1--txt-txIN-1968------",
                 article_date: "March 18, 1987"
             }
         ],
-    "2000s":
+    "2020: BDS":
         [
             {
-                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "Why protest?",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs20020214-01.2.16&srpos=1&e=------200-en-20--1--txt-txIN-protest------",
-                article_date: "February 14, 2002"
+                image_url: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/PBHJIT6R2VGCRFNJ3RHFBFUC6A",
+                article_title: "Israel practices apartheid",
+                article_link: "https://www.columbiaspectator.com/2011/02/27/israel-practices-apartheid/",
+                article_date: "February 28, 2011"
             },
             {
-                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "Students protest tenure denial",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs20121128-01.2.5&srpos=248&e=------201-en-20--241-byDA-txt-txIN-protest------",
-                article_date: "November 28, 2012"
+                image_url: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/7M7KZURRRVH5RFIM5WPF66J4CI.jpg",
+                article_title: "Reject BDS and keep Barnard an inclusive environment",
+                article_link: "https://www.columbiaspectator.com/opinion/2018/04/11/reject-bds-and-keep-barnard-an-inclusive-environment/",
+                article_date: "April 11, 2018"
             },
             {
-                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "Under surveillance",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs20120202-02.2.3&srpos=201&e=------201-en-20--201-byDA-txt-txIN-protest------",
-                article_date: "February 2, 2012"
+                image_url: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/LT3G7FEXXJGS5OO62DQMSUTJNY.jpg",
+                article_title: "Bold, Beautiful, BDS",
+                article_link: "https://www.columbiaspectator.com/opinion/2018/04/13/bold-beautiful-bds-the-moral-case-for-saying-yes-to-divest/",
+                article_date: "April 13, 2018"
             },
             {
-                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "Protest more, protest harder",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs20120131-01.2.18&srpos=200&e=------201-en-20--181-byDA-txt-txIN-protest------",
-                article_date: "January 31, 2012"
+                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/NAQMI6XFCVAAFPQPM46QPGP3GU",
+                article_title: "A Jewish argument for divestment",
+                article_link: "https://www.columbiaspectator.com/opinion/2020/09/23/a-jewish-argument-for-divestment/",
+                article_date: "September 23, 2020"
             },
             {
-                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "LionPAC members protest Hamas",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs20060222-01.2.8&srpos=4&e=------200-en-20--1--txt-txIN-protest------",
-                article_date: "February 26, 2006"
+                image_url: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/QEQB46ZJJRH5PKU7ZV3ZONZE3E.jpg",
+                article_title: "I am pro-Israel former Aryeh board member, and I am embarrassed by CCSC's vote",
+                article_link: "https://www.columbiaspectator.com/opinion/2019/03/12/i-am-a-pro-israel-former-aryeh-board-member-and-i-am-embarrassed-by-ccscs-vote/",
+                article_date: "March 11, 2019"
             },
             {
-                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "Reviving the spirit of '68",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs20111014-01.2.19&srpos=150&e=------201-en-20--141-byDA-txt-txIN-protest------",
-                article_date: "October 14, 2011"
+                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/NMUXKKL5BBCAZPMSU7YSSSJWU4.jpg",
+                article_title: "BDS is a perversion of Columbia's investments",
+                article_link: "https://www.columbiaspectator.com/opinion/2020/09/23/bds-is-a-perversion-of-columbias-investments/",
+                article_date: "September 23, 2020"
             },
             {
-                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "A time to stand",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs20110928-01.2.18&srpos=126&e=------201-en-20--121-byDA-txt-txIN-protest------",
-                article_date: "September 28, 2011"
-            },
-            {
-                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
-                article_title: "SJP Protest Walk",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs20110303-01.2.3&srpos=99&e=------201-en-20--81-byDA-txt-txIN-protest------",
-                article_date: "March 3, 2011"
+                image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/QHF4ILU47JHSDLUN4AANNX5OQU",
+                article_title: "Stand for justice, stand for Palestine",
+                article_link: "https://www.columbiaspectator.com/opinion/2020/09/23/stand-for-justice-stand-for-palestine/",
+                article_date: "September 23, 2020"
             }
         ],
     "2023-2024":
