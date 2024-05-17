@@ -89,7 +89,7 @@ export const articledata = {
                 article_date: "March 18, 1987"
             }
         ],
-    "2020: BDS":
+    "2011-2020":
         [
             {
                 image_url: "https://arc-anglerfish-arc2-prod-spectator.s3.amazonaws.com/public/PBHJIT6R2VGCRFNJ3RHFBFUC6A",
