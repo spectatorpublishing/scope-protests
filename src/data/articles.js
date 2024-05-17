@@ -1,91 +1,91 @@
 export const articledata = {
-    "1960s" :
+    "1968" :
         [
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "City Newspapers Distort Protests",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680427-01.2.3&srpos=5&e=01-04-1968-31-04-1968--en-20--1--txt-txIN-protests------",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680427-01.2.3&e=-------en-20--1--txt-txIN-------",
                 article_date: "April 27, 1968"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "A Glimmer of Hope",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680427-01.2.8&srpos=10&e=01-04-1968-31-04-1968--en-20--1--txt-txIN-protests------",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680427-01.2.8&srpos=10&e=01-04-1968-31-04-1968--en-20--1--txt-txIN-------",
                 article_date: "April 27, 1968"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "The Reconstruction",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680501-01.2.7&e=-------en-20--1--txt-txIN-1968------",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680501-01.2.7&e=-------en-20--1--txt-txIN-------",
                 article_date: "May 1, 1968"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "Cops Out",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680502-01.2.11&e=-------en-20--1--txt-txIN-1968------",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680502-01.2.11&e=-------en-20--1--txt-txIN-------",
                 article_date: "May 2, 1968"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "In Power's Name",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680502-01.2.13&e=-------en-20--1--txt-txIN-1968------",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680502-01.2.13&e=-------en-20--1--txt-txIN-------",
                 article_date: "May 2, 1968"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "LTE: Holds Kirk Responsible",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680503-01.2.13&e=-------en-20--1--txt-txIN-1968------",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680503-01.2.13&e=-------en-20--1--txt-txIN-------",
                 article_date: "May 3, 1968"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "Misrepresentations",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680507-01.2.7&e=-------en-20--1--txt-txIN-1968------",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19680507-01.2.7&e=-------en-20--1--txt-txIN-------",
                 article_date: "May 7, 1968"
             }
         ],
-    "1980s" :
+    "1985" :
         [
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "Emotional Rescue",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850325-01.2.9&srpos=1&e=01-03-1985-31-03-1985--en-20--1--txt-txIN-protest------",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850325-01.2.9&srpos=1&e=01-03-1985-31-03-1985--en-20--1--txt-txIN-------",
                 article_date: "March 25, 1985"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "Letters of Outrage: Discuss Divestment",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850329-01.2.8&srpos=4&e=01-03-1985-31-03-1985--en-20--1--txt-txIN-protest------",
-                article_date: "March 29, 1985"
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850329-01.2.8&srpos=4&e=01-03-1985-31-03-1985--en-20--1--txt-txIN-------",
+                article_date: "March 27, 1985"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "Divest is life or death issue",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850404-01.2.3&srpos=16&e=01-04-1985-31-04-1985--en-20--1--txt-txIN-protest------",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850404-01.2.3&srpos=16&e=01-04-1985-31-04-1985--en-20--1--txt-txIN-------",
                 article_date: "April 4, 1985"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "Hypocrisy of protesters draws ironic parallel",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850408-01.2.10&srpos=8&e=01-04-1985-31-04-1985--en-20--1--txt-txIN-protests------",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850408-01.2.10&srpos=8&e=01-04-1985-31-04-1985--en-20--1--txt-txIN-------",
                 article_date: "April 8, 1985"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "Day 5 of the blockade: a profile",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850409-01.2.15&srpos=2&e=01-04-1985-31-04-1985--en-20--1--txt-txIN-protests------",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850409-01.2.15&srpos=2&e=01-04-1985-31-04-1985--en-20--1--txt-txIN------",
                 article_date: "April 9, 1985"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "Organization marks protest",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850424-01.2.22&srpos=13&e=01-04-1985-31-04-1985--en-20--1--txt-txIN-protests------",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19850424-01.2.22&srpos=13&e=01-04-1985-31-04-1985--en-20--1--txt-txIN-------",
                 article_date: "April 24, 1985"
             },
             {
                 image_url: "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/ZIZ4CH63EVBFBKTROF2UMXR6AA.jpg",
                 article_title: "A '68 Leader on the Protests of Today",
-                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19870318-01.2.10&srpos=12&e=-------en-20--1--txt-txIN-1968------",
+                article_link: "https://spectatorarchive.library.columbia.edu/?a=d&d=cs19870318-01.2.10&srpos=12&e=-------en-20--1--txt-txIN-------",
                 article_date: "March 18, 1987"
             }
         ],

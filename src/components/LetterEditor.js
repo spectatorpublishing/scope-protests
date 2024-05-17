@@ -46,41 +46,27 @@ const LetterEditor = () => {
             <Body>
                 <p>Dear readers, </p>
                 <p>
-                    Throughout its “storied history,” Columbia University has stood at the forefront of national student movements. 
-                    At each turn, Spectator was there to platform the voices of both activists and their critics. 
-                    “After 1968” is a retrospective of Spectator content from four critical eras of protest on Columbia’s campus. 
+                Throughout its “storied history,” Columbia University has stood at the forefront of national student movements. At each turn, Spectator was there to platform the voices of both activists and their critics. “After 1968” is a retrospective of Spectator content from four critical eras of protest on Columbia’s campus.
                 </p>
                 <p>
-                    Our retrospective begins in 1968 where protests against Columbia’s links to the Vietnam War and racism towards 
-                    Black Harlemites culminated in the occupation of multiple buildings. We then move to 1985 in which Columbia 
-                    became the first major U.S university to divest from apartheid South Africa after years of pressure from 
-                    students and the Coalition for a Free South Africa’s takeover of Hamilton Hall. In 2020, after years of 
-                    debate on Israel and Palestine, the Columbia College Student Council held its first BDS referendum asking
-                    whether the University should divest from companies that “profit from or engage in the State of Israel’s 
-                    treatment of Palestinians.” 
+                Our retrospective begins in 1968, during protests against Columbia’s links to the Vietnam War and the planned 
+                construction of a gymnasium in Morningside Park with separate entrances for Columbia students and Harlem 
+                residents. Protests against the University’s perceived ties to racism and war research culminated in the 
+                occupation of multiple buildings across campus. We then move to 1985, when Columbia became the first 
+                major U.S university to fully divest from apartheid South Africa after years of pressure from students
+                 and the Coalition for a Free South Africa’s blockade of Hamilton Hall. In 2019, after years of debate
+                  on campus regarding Israel/Palestine, the Columbia College Student Council <a style = {{ color : "white" }} href="https://www.columbiaspectator.com/news/2019/11/25/ccsc-passes-ballot-initiative-to-hold-israel-divestment-referendum/?fbclid=IwAR2i-paau5TSMFF3lKTFpuCG5WpLVigDt3tmTqnW8A2vqblTY4wcui9H9Mg">approved a referendum</a> {" "}
+                  asking whether the University should divest “from companies that profit from or engage in the State 
+                  of Israel’s acts towards Palestinians.” 
                 </p>
                 <p>
-                    During the academic year of 2023-2024, a significant part of campus life has been shaped by the divestment 
-                    campaign spearheaded by Students for Justice in Palestine, Barnard-Columbia  Jewish Voice for Peace, and 
-                    the coalition of 100+ student organizations comprising Columbia University Apartheid Divest.  This April, 
-                    student organizers continued the referential tradition of protest with their creation of multiple “liberated 
-                    zones” across campus, including the ‘Gaza Solidarity Encampment’ and a once-again occupied Hamilton, renamed 
-                    ‘Hind’s Hall’. After the second round of mass arrests in two weeks, Columbia remains at the center of a national 
-                    media storm surrounding college protests, and a wave of anti-war encampments continues to spread internationally. 
-                    In the midst of an unprecedented police presence on campus and widespread fury towards the Columbia administration, 
-                    students are once again reckoning with their University’s complex history.
+                During the 2023-24 academic year, a significant part of campus life has been shaped by pro-Palestinian and pro-Israel protests. Pro-Palestinian protests have been spearheaded in large part by the University chapters of Students for Justice in Palestine and Jewish Voice for Peace, alongside the coalition of over 100 student organizations that comprise Columbia University Apartheid Divest. Pro-Israel students and faculty have responded with demonstrations and counterprotests of their own. As in 1968, faculty members march alongside their students, and hundreds of nonaffiliates from across New York City have come to voice their support or discontent from outside Columbia’s gates. This April, student organizers continued the referential tradition of protest, establishing the “Gaza Solidarity Encampment” and again occupying Hamilton—renamed “Hind’s Hall” by protesters in honor of a six-year-old Palestinian killed by the Israeli military in Gaza. After the second round of mass arrests in two weeks, Columbia remains at the center of a national media storm surrounding college protests, and encampments in solidarity with Gaza continue to spread across campuses internationally. In the midst of continued police presence on campus and widespread fury towards the Columbia administration, students are once again reckoning with their University’s complex history.
                 </p>
                 <p>
-                    On behalf of myself and Spectator’s editorial board, I urge you to engage critically with these archival pieces, 
-                    and consider their place within a broader historical context. In curating this Scope, we aimed to create a 
-                    chronology of campus protests and draw from a wide range of perspectives. This survey of articles is an incomplete 
-                    picture of both protests and student journalism at Columbia. Our intent is to underscore historical parallels, 
-                    encourage further engagement with Columbia’s past, and further inform discourse within our community. 
+                On behalf of myself and Spectator’s editorial board, I urge you to engage critically with these archival pieces and consider their place within a broader historical context. In curating this edition of the Scope, we aimed to create a chronology of campus protests and draw from a wide range of perspectives. This survey of articles is an incomplete picture of both protests and student journalism at Columbia. Our intent is to underscore historical parallels, encourage increased engagement with Columbia’s past, and further inform discourse within our community.  
                 </p>
                 <p>
-                    Much is uncertain as we near the end of this tumultuous school year. My hope is that this Scope helps 
-                    contextualize the rich history of political engagement at Columbia, and affirms the ability of students 
-                    to narrate their own history.
+                Much is uncertain as we near the end of this tumultuous school year. Our hope is that this Scope helps contextualize the rich history of political engagement at Columbia and affirms the ability of students to narrate their own history.
                 </p>
                 <p>
                     Sincerely,
